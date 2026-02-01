@@ -1,0 +1,18 @@
+{
+    "name": "Crow.SimpleRoadSystem.EditorTools",
+    "rootNamespace": "Crow.SimpleRoadSystem.EditorTools",
+    "references": [
+        "GUID:e611e86121c93467983270d9606314c5"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
